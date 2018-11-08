@@ -1,5 +1,5 @@
-const mysqrt = (n)=>{
-	var ans = -1;
+function mysqrt(n){
+	var ans;
 	if (n >= 0){
 		ans = Math.sqrt(n);
 	}else{
@@ -7,4 +7,6 @@ const mysqrt = (n)=>{
 	}
 	return ans;
 }
+
+module.exports = mysqrt;
 

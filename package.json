@@ -1,0 +1,22 @@
+{
+  "name": "jesttest",
+  "version": "1.0.0",
+  "description": "Jest test",
+  "main": "testmodule.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virnkord/jestTest.git"
+  },
+  "author": "Ivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Virnkord/jestTest/issues"
+  },
+  "homepage": "https://github.com/Virnkord/jestTest#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
