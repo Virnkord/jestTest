@@ -9,5 +9,5 @@ test("Sqrt function 25 equals 5", () => {
 })
 
 test("Sqrt function 36 equals 6", () => {
-  expect(mysqrt(36)).toBe(7)
+  expect(mysqrt(36)).toBe(6)
 })
