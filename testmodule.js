@@ -9,4 +9,3 @@ function mysqrt(n){
 }
 
 module.exports = mysqrt;
-
