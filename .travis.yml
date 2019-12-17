@@ -12,7 +12,7 @@ deploy:
   api_key:
     secure: F72mM0eyV3IaxFk/UNMS0R5uHM3xu2fGW0fnjmE2xEZAEbP1Xay9ci78KqNVZIHVWQJa7+4+UtCS1Nopxol1t9DAzElICAwIjQDwmRxUHvs4aBBW2XvIHeMTiUNJvB2+vSac3hfrErs4u0HbJ3m5yJhJxO8i82P6n+vszcv+mtMkgfvzPzu0QXdndSzTr+oHIZcQVDOtYFDCbeAbeAkB0v5z30NVMXIXYt+Th0TRFsQs5pXGxdvsRqjIXS31o4YOpwWaQGny9tNEaIONeUXLjv7rdP/eEP75IDwdfCbwPuHKnJMNT7vVat6DRkvafOxdpBRltM1896OR7EjyGluYXwtXpXVjvAxjywUZ6tFCC3QrBzPRL5M4RdR1XDRwuhVT5b/fe/yOu+90LzRUyeKLc+0j5bXtPSxv5IH6qecd4gIKlSyctQ1X8bcfSviBqjliAWkQOcoUPs902bg8BYDG+1GFvXmUo+ZB9NetWjlIVwhaVQJz2IWIa7ik2B2eYHb9yn8oEuVLNl0pyiCmWqEmHcifIWsG6j46Zazg+k/c5bc5rW6jKzAfVPIKcWuo9LLS//Lyrc2eUeHd0rYdxd9Pd3ltbaJBFvPrWcytuk7d2g7TDxiT+HgsWfJmXi+o66EbVzCe7ss0W6/db2pYraDmlQq42/t8/rmJcbr0R17aSPM=
   file_glob: true
-  file: targer/igpop.jar
+  file: 'targer/igpop.jar'
   skip_cleanup: true
   on:
     tags: true
